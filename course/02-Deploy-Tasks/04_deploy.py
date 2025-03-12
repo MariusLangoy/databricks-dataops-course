@@ -47,14 +47,14 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC A job is a scheduled task or a set of tasks, while a job run is an instance of the execution of that job.
 
 # COMMAND ----------
 
 # MAGIC %md
 # MAGIC ## Task: How was the job name composed?
 # MAGIC
-# MAGIC Write answer in the empty cell below.
+# MAGIC The job name is composed of a prefix, a unique identifier, and a suffix.
 
 # COMMAND ----------
 
